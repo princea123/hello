@@ -1,0 +1,11 @@
+camel:
+  servlet:
+    mapping: /api/*
+    
+    
+spring:
+  application:
+    name: camel-demo
+
+server:
+  port: 8080
